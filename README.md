@@ -1,2 +1,0 @@
-# RLP
-Network Documentation
